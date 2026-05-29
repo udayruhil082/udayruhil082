@@ -42,8 +42,6 @@
 
 ---
 
-## ▪ GitHub Stats
-
 
 ## 📫 Let's Connect
 
